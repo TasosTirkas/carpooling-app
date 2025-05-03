@@ -1,0 +1,8 @@
+{
+  "name": "carpooling-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "753e3e00"
+}
